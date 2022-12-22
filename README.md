@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hemanth2000. I live in India.
 - 👀 Interested in Web Development, Machine Learning, Deep Learning. Moderate experience in all these fields and looking forward to contribute my understanding over these fields in the future.
-- 🌱 I'm currently exploring Web 3.0 and Blockchain.  
+- Looking for new challenges everyday.
 
 <!---
 hemanth2000/hemanth2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
